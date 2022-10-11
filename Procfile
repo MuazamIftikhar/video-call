@@ -1,1 +1,1 @@
-web: cmd/server
+web: bin/go-getting-started
