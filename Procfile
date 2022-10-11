@@ -1,1 +1,1 @@
-web: bin/video-call
+web: cmd/server
