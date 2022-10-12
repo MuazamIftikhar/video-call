@@ -1,1 +1,1 @@
-web: bin/video-call
+web: bin/personalshoper
