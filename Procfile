@@ -1,1 +1,1 @@
-web: bin/video_call-personal
+web: bin/video-call
